@@ -1,6 +1,6 @@
 # AnakinAssignment
 
-## Web Scrapin Task
+## Web Scraping Task
 
 It may be hard problem to solve - requires advanced use of selenium.
 
